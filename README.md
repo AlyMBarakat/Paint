@@ -8,5 +8,5 @@ Paint is a drawing application written in C++ using OpenGL library
 ```
  To run
   ```cmd
- $./FileName
+ $./Gproj
 ```
