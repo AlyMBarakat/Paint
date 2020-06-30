@@ -1,11 +1,12 @@
 # Paint
 Paint is a drawing application written in C++ using OpenGL library
 
-### To compile on mac, type in the terminal
+### To compile and run on mac
+  *Change the file format to .c and run the following command in terminal
   ```cmd
- $gcc FileName.c -w -o FileName -framework OpenGL -framework GLUT;
+ $gcc Gproj.c -w -o Gproj -framework OpenGL -framework GLUT;
 ```
-### To Run on mac, type in the terminal
+  *To run
   ```cmd
  $./FileName
 ```
